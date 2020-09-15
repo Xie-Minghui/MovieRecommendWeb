@@ -1,0 +1,8 @@
+__pycache__
+upload
+*.sqlite3
+*.idea
+*.pyc
+.idea
+.vscode
+.history
