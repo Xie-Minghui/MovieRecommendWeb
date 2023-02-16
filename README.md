@@ -35,6 +35,13 @@ def getRecommendMovies(request, userID):
 
 Recommend_code_origin存储的测试代码，自动忽略。其他文件夹均基本是Django数据库，前端代码不知道在哪里。
 
+**算法结果**
+![image](./pic/算法效果.png)
+
+**Baseline结果**
+![image](./pic/baseline.png)
+
+
 #### 技术说明
 
 前端采用React，后端采用Pthon的Django框架，数据库采用Mysql。机器学习部分使用sklearn。
@@ -49,8 +56,26 @@ Recommend_code_origin存储的测试代码，自动忽略。其他文件夹均�
 #### 使用说明
 
 本地部署的话，直接运行Django框架即可，也就是运行manage.py，然后在本地端口进行访问。
+下面是**效果展示**：
 
-由于服务器过期，所以无法展示效果，但是确实可以运行。
+#### 效果展示
 
+**用户登录后，主页显示相应的推荐结果（根据用户ID进行针对性推荐）**：
+![image](./pic/推荐结果.png)
+
+**电影详情页**：
+![image](./pic/电影详情页.png)
+
+**相似电影**：
+![image](./pic/相似电影.png)
+
+**猜你喜欢**：
+![image](./pic/猜你喜欢.png)
+
+**电影分类**：
+![image](./pic/电影分类.png)
+
+**电影评分功能**：
+![image](./pic/电影评分.png)
 
 
