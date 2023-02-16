@@ -6,3 +6,4 @@ upload
 .idea
 .vscode
 .history
+.DS_*
