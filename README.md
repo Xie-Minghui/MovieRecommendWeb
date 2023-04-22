@@ -78,4 +78,4 @@ Recommend_code_origin存储的测试代码，自动忽略。其他文件夹均�
 **电影评分功能**：
 ![image](./pic/电影评分.png)
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=Xie-Minghui/MovieRecommendWeb&type=Timeline)](https://star-history.com/#Xie-Minghui/MovieRecommendWeb&Date)
